@@ -46,9 +46,6 @@ I Spend most of time coding outstanding projects or learning new technologies.
 <br />
 <br />
 
-#### Bizness
-
-- :email: luisfernandosalasg@gmail.com
 
 #### Profile Visits
 
