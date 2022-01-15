@@ -61,7 +61,7 @@ I Spend most of time coding outstanding projects or learning new technologies.
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
+I love to learn new things every single day. 
 
 
 
