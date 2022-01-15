@@ -54,20 +54,11 @@ I Spend most of time coding outstanding projects or learning new technologies.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=LuisSalas94.LuisSalas94&left_color=green&right_color=red)
 
-<details>
-<summary>
-  More stuff about me
-</summary>
 
-<br >
-
-I love to learn new things every single day. 
-
-
-
+ 
 #### Github Stats
 [![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisSalas94&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
+
 
 
