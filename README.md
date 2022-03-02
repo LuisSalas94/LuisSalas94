@@ -1,7 +1,7 @@
 ## Hi I'm Fernando <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Fernando Salas student @microverseinc,Full-Stack software developer, stack: HTML, CSS, JavaScript, React and Ruby on Rails.
-I Spend most of time coding outstanding projects or learning new technologies.
+I'm Fernando Salas student @microverseinc, Full-Stack software developer, stack: HTML, CSS, JavaScript, React ,and Ruby on Rails.
+I spend most of my time coding outstanding projects or learning new technologies.
 
 :mailbox: Reach me out!
 
@@ -11,9 +11,9 @@ I Spend most of time coding outstanding projects or learning new technologies.
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently a full time student @microverseinc.
+- 🔭 I’m currently a full-time student @microverseinc.
 - :computer: Most used line of code `git commit -m "Initial Commit"`x
-- 🤔 I’m looking to colaborate to open sources projects.
+- 🤔 I’m looking to collaborate to open sources projects.
 - 📫 How to reach me: luisfernandosalasg@gmail.com.
 - ⚡ Fun fact: I love Carl Sagan Books and go to the GYM very often.
 
