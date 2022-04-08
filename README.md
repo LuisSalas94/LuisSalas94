@@ -16,6 +16,7 @@ I spend most of my time coding outstanding projects or learning new technologies
 - 🤔 I’m looking to collaborate to open sources projects.
 - 📫 How to reach me: luisfernandosalasg@gmail.com.
 - ⚡ Fun fact: I love Carl Sagan Books and go to the GYM very often.
+- [![CodeWars Badge](https://www.codewars.com/users/LuisSalas94/badges/micro)](#)
 
 #### Top Technologies
 
@@ -26,6 +27,7 @@ I spend most of my time coding outstanding projects or learning new technologies
 [![Postgresql Badge](https://img.shields.io/badge/-Postgresql-305d8d?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=305d8d)](#) 
 [![Redux Badge](https://img.shields.io/badge/-Redux-7248b6?style=for-the-badge&labelColor=black&logo=redux&logoColor=7248b6)](#) 
 [![Ruby Badge](https://img.shields.io/badge/-Ruby-ab1303?style=for-the-badge&labelColor=black&logo=ruby&logoColor=ab1303)](#)
+
 
 ### Complete Tech Stack
 
