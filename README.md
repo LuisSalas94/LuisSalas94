@@ -1,7 +1,5 @@
 ## Hi I'm Fernando <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Fernando Salas student @microverseinc, Full-Stack software developer, stack: HTML, CSS, JavaScript, React ,and Ruby on Rails.
-I spend most of my time coding outstanding projects or learning new technologies.
 
 :mailbox: Reach me out!
 
