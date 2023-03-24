@@ -9,7 +9,7 @@
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently a full-time student @microverseinc.
+- 🔭 I’m currently working as a Software Developer @NTT Data.
 - :computer: Most used line of code `git commit -m "Initial Commit"`x
 - 🤔 I’m looking to collaborate to open sources projects.
 - 📫 How to reach me: luisfernandosalasg@gmail.com.
