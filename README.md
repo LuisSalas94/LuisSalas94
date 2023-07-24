@@ -22,7 +22,7 @@
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![Postgresql Badge](https://img.shields.io/badge/-Postgresql-305d8d?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=305d8d)](#) 
+[![Postgresql Badge](https://img.shields.io/badge/-MySQL-305d8d?style=for-the-badge&labelColor=black&logo=mysql&logoColor=305d8d)](#) 
 [![Redux Badge](https://img.shields.io/badge/-Redux-7248b6?style=for-the-badge&labelColor=black&logo=redux&logoColor=7248b6)](#) 
 [![Ruby Badge](https://img.shields.io/badge/-Ruby-ab1303?style=for-the-badge&labelColor=black&logo=ruby&logoColor=ab1303)](#)
 
