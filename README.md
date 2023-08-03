@@ -1,61 +1,39 @@
-## Hi I'm Fernando <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<h1 align="center">Hi 👋, I'm Fernando Salas</h1>
+<h3 align="center">🏞️ Full-Stack Java Developer | Building Dreams with Code | Drawing Inspiration from Peru's Rich Natural Canvas 🌄</h3>
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=luissalas94&label=Profile%20views&color=0e75b6&style=flat" alt="luissalas94" /> 
 
+- 🌱 I’m currently learning **Spring Boot**
 
-:mailbox: Reach me out!
+- 👯 I’m looking to collaborate on **open sources projects**
 
-[![Twitter Badge](https://img.shields.io/badge/-@FernandoSalas-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/FernandoSalasD4)](https://twitter.com/FernandoSalasD4) 
-[![Linkedin Badge](https://img.shields.io/badge/-FernandoSalas-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisfernandosalasgave/) 
-[![Mail Badge](https://img.shields.io/badge/-FernandoSalas-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:luisfernandosalasg@gmail.com)
+- 👨‍💻 All of my projects are available at [https://fernando-salas-portfolio.netlify.app/](https://fernando-salas-portfolio.netlify.app/)
 
-<!-- TODO: Add last video link -->
+- 📝 I regularly write articles on [Medium](https://medium.com/@luisfernandosalasg)
 
-- 🔭 I’m currently working as a Software Developer @NTT Data.
-- :computer: Most used line of code `git commit -m "Initial Commit"`x
-- 🤔 I’m looking to collaborate to open sources projects.
-- 📫 How to reach me: luisfernandosalasg@gmail.com.
-- ⚡ Fun fact: I love Carl Sagan Books and go to the GYM very often.
-- [![CodeWars Badge](https://www.codewars.com/users/LuisSalas94/badges/micro)](#)
+- 💬 Ask me about **React, Java and Spring Boot**
 
-#### Top Technologies
+- 📫 How to reach me **luisfernandosalasg@gmail.com**
 
-<!-- TODO: Make technologies links takes you to repositories -->
+- ⚡ Fun fact **I love Carl Sagan ⭐ Books and go to the GYM 🦾 very often**
+  
+-  [![CodeWars Badge](https://www.codewars.com/users/LuisSalas94/badges/micro)](#)
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![Postgresql Badge](https://img.shields.io/badge/-MySQL-305d8d?style=for-the-badge&labelColor=black&logo=mysql&logoColor=305d8d)](#) 
-[![Redux Badge](https://img.shields.io/badge/-Redux-7248b6?style=for-the-badge&labelColor=black&logo=redux&logoColor=7248b6)](#) 
-[![Ruby Badge](https://img.shields.io/badge/-Ruby-ab1303?style=for-the-badge&labelColor=black&logo=ruby&logoColor=ab1303)](#)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/luisfernandosalasgave/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando salas" height="30" width="40" /></a>
+<a href="https://medium.com/@luisfernandosalasg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@luisfernandosalasg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/luisfernandosal2?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@luisfernandosal2" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### Complete Tech Stack
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luissalas94&show_icons=true&locale=en&layout=compact" alt="luissalas94" /></p>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"/>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"/>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"/>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luissalas94&show_icons=true&locale=en" alt="luissalas94" /></p>
 
-<br />
-<br />
-
-
-#### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=LuisSalas94.LuisSalas94&left_color=green&right_color=red)
-
-
- 
-#### Github Stats
-[![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisSalas94&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luissalas94&" alt="luissalas94" /></p>
 
